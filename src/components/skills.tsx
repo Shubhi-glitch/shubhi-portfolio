@@ -1,5 +1,4 @@
-import Reveal from "./Reveal"
-import { motion } from "framer-motion"
+
 
 
 const Skills = () => {
